@@ -8,7 +8,7 @@ Website: https://dfir.science
 ---
 
 ## 002 Github Fork and Pull
-When using Github or similar sites, you will typically (clone)[https://help.github.com/en/articles/cloning-a-repository] repositories. That means that you make a copy of the code on your computer.
+When using Github or similar sites, you will typically [clone](https://help.github.com/en/articles/cloning-a-repository) repositories. That means that you make a copy of the code on your computer.
 We copy code onto our computers so we can use the programs or use the code in our code.
 
 Cloning is an excellent way to keep your software up-to-date. Since your local copy is connected with the
@@ -19,7 +19,7 @@ changes to the code that will be useful. For example, if you are using some soft
 a bug, you will probably fix the bug. However, this fix is only on your local copy. With tools like
 git, it is easy to share that fix with the original developer.
 
-To contribute to projects, Github uses a 'Fork and Pull' workflow. (Forking)[https://help.github.com/en/articles/fork-a-repo] is making a copy of someone else's repository. You make changes to your copy, and
+To contribute to projects, Github uses a 'Fork and Pull' workflow. [Forking](https://help.github.com/en/articles/fork-a-repo) is making a copy of someone else's repository. You make changes to your copy, and
 then send the original developer your changes with a 'Pull Request'.
 
 While it seems a little bit complicated, it is a very powerful method of collaboration. Developers do
@@ -31,7 +31,7 @@ the original developers.
 is designed to harm your computer or data. Do not run code without checking how it works.
 
 ### Resources
-* (Github Fork and Pull Workflow)[https://gist.github.com/Chaser324/ce0505fbed06b947d962]
+* [Github Fork and Pull Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
 ## Challenge
 1. Fork *this* repository

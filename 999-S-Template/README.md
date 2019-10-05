@@ -39,7 +39,7 @@ The rest of the challenge document contains the following information:
 When creating challenges, please try to keep these standards.
 
 ### Resources
-* Resources are (links)[#] to documents that a *beginner* can use to solve the problem.
+* Resources are [links](#) to documents that a *beginner* can use to solve the problem.
 * Resources should give the answer as straightforward as possible. Don't try to hide the solution.
 * More resources - as long as they are relevant - is always better.
 
@@ -53,6 +53,6 @@ When creating challenges, please try to keep these standards.
 * Try not to have more that 5 results per challenge.
 
 ### Solution Files
-* Put a (link)[#] to solution files here, if any.
-* (Windows PowerShell Solution)[#]
-* (Linux Bash Shell Solution)[#]
+* Put a [link](#) to solution files here, if any.
+* [Windows PowerShell Solution](#)
+* [Linux Bash Shell Solution](#)

@@ -17,10 +17,10 @@ Code and idea sharing makes programming much faster for everyone. It lets you fo
 on your core problem instead of re-inventing what other people have already done.
 
 ### Resources
-* (Create a Github account)[https://github.com/join]
-* (How to use Github)[https://guides.github.com/activities/hello-world/]
-* (Github Desktop for Windows)[https://desktop.github.com/]
-* (Installing Git for Linux or OSx)[https://gist.github.com/derhuerst/1b15ff4652a867391f03]
+* [Create a Github account](https://github.com/join)
+* [How to use Github](https://guides.github.com/activities/hello-world/)
+* [Github Desktop for Windows](https://desktop.github.com/)
+* [Installing Git for Linux or OSx](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
 
 ## Challenge
 1. Create a Github account (if you don't have one yet)
