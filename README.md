@@ -13,17 +13,17 @@ the solution that we have found. You can run the solution file to
 see how the correct output should look. You can also look at
 the solution code to get hints when you are stuck.
 
-#### Submission
+#### Submit an answer
 If you want me to review your solution to a particular problem, create
 a *pull request* in Github with *only* your solution file. I will use
 Github to give you feedback.
 
 ### Challenge Types
 There are two basic types of challenges: programming and support.
-Programming challenges are problems that you need to write a program to solve.
-Support challenges are programming-related tasks that are not programming,
+Programming *(P)* challenges are problems that you need to write a program to solve.
+Support *(S)* challenges are programming-related tasks that are not programming,
 but that will assist in programming. For example, the first challenge in this series
-is about using Github as a programming tool.
+is about using Github as a programming tool. See the (challenge template)[https://github.com/jijames/ProgrammingChallenges/blob/master/999-S-Template/README.md] for more information.
 
 ### Programming Languages
 The great thing about programming is that there are many different ways to solve
@@ -40,4 +40,4 @@ the best language to solve whatever issue you are working on.
 ### Contributing
 Do you have some programming challenges, or solutions in different languages that you would
 like to submit to the collection? We welcome them! Please use an existing challenge as a
-template, and submit a pull request with your updated challenge.
+template, and submit a pull request with your updated challenge. See the (challenge template)[https://github.com/jijames/ProgrammingChallenges/blob/master/999-S-Template/README.md] to get started.
